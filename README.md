@@ -14,4 +14,5 @@
 
 
 <h3> Credits </h3>
-<p> <a href="https://wordpress.org/themes/magazine-newspaper/" target="_blank"> Magazine Newspaper </a> as the base project and template for this website they stated that " All the souce code can be changed and modified ".  
+ <p> <a href="https://wordpress.org/themes/magazine-newspaper/" target="_blank"> Magazine Newspaper </a> as the base project and template for this website they stated that " This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others. "  </p>  

@@ -1,16 +1,7 @@
-﻿=== magazine-newspaper ===
+﻿=== magazine-newspaper | Revamp to: Steel Hawks ===
 Contributors: thebootstrapthemes
-Tags: right-sidebar, portfolio, news, theme-options, featured-images, rtl-language-support, grid-layout, editor-style, custom-header, threaded-comments, custom-background, custom-colors, blog, footer-widgets, translation-ready
-
-Description: Magazine Newspaper build for newspaper, media, magazine related project. This theme is a minimalist and fully responsive multipurpose theme with full WordPress Customizer integration, that enables you to customize your website with live preview
-
-This theme is very lightweight and easy to use. This is one of  the best WordPress theme designed for newspaper, news portal, news website, magazine, photographers, personal portfolio, travel blogging, travel bloggers, colleges, universities, small medium and large scale businesses, corporates, lawyers, bloggers, restaurants, weddings, hotels, churches, salons, fitness, resorts, ecommerce, businesses, creative freelancers, professionals etc. and also supports woocommerce. We provide you free wordpress theme that is SEO friendly and customizable according to your necessity and desire, which helps you make a positive impression on potential clients by showcasing your visual works in the best possible way.
-
-Live Demo - http://thebootstrapthemes.com/preview/?demo=magazine-newspaper
-Theme Details - https://thebootstrapthemes.com/downloads/free-magazine-newspaper-wordpress-theme/
-Theme Documentation - https://thebootstrapthemes.com/magazine-newspaper-wordpress-theme-documentation/
-
-
+ReVamp by: Dancedrick Alegroso 
+Description: Website build for Senior High SChool Steel Hawks
 
 Requires at least: 4.5
 Tested up to: 4.9.4
@@ -18,21 +9,9 @@ Stable tag: 2.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-magazine-newspaper is distributed under the terms of the GNU General Public License v2
 
 
-== Installation ==
-	
-1. In your admin panel, go to Appearance > Themes and click the Add New button.
-2. Click Upload and Choose File, then select the magazine-newspaper.zip file. Click Install Now.
-3. Click Activate to use your new theme right away.
-4. Create a page "home" or Select the Page Tempalate Called Front Page 
-5. Select static frontpage "home" from customizer or Page Created in Step 4
-6. Create categories
-7. Select category needed for the homepage
 
-Magazine Newspaper WordPress Theme, Copyright 2017 The Bootstrap Themes
-Magazine Newspaper is distributed under the terms of the GNU GPL
 
 
 == Credits ==
@@ -59,6 +38,7 @@ License: Creative Commons CC0 - Free for commercial use.
 License: Creative Commons CC0 - Free for commercial use.
 * Image licences Used in screenshot - https://pixabay.com/en/peasant-farmer-farmer-romania-482727/
 License: Creative Commons CC0 - Free for commercial use.
+* Magazine-newspaper by thethemebootstrap(C) 2016©  GNU GPL version 2 or later
 * trt-customizer-pro https://github.com/justintadlock/trt-customizer-pro, (C) 2016 © Justin Tadlock,  GNU GPL version 2 or later
 * Wow.js: https://github.com/matthieua/WOW , License: MIT License
 * Animate.css: https://github.com/daneden/animate.css , License: MIT License
